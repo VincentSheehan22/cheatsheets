@@ -36,12 +36,12 @@
 * `([0-9a-fA-F]{2})([0-9a-fA-F]{2})([0-9a-fA-F]{2})([0-9a-fA-F]{2})([0-9a-fA-F]{2})([0-9a-fA-F]{2})`, `\1-\2-\3-\4-\5-\6`
 
 ## Python `re` Module
-* compile()
-* match()
-* search()
-* findall()
-* finditer()
-* sub()
-* subn()
-* split()
-* group()
+* `compile()`
+* `match()`
+* `search()`
+* `findall()`
+* `finditer()`
+* `sub()`
+* `subn()`
+* `split()`
+* `group()`
