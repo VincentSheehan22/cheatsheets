@@ -3,24 +3,26 @@
 ## Basics
 * `^`: Matches at start of line (`^[string]`).
 * `^`: Matches negated (`[^string]`).
-* `.`:
-* `*`:
-* `$`:
-* `?`:
-* `+`:
+* `.`: Match any charaacter.
+* `*`: Match any amount.
+* `$`: End of string.
+* `?`: Lookahead.
 * `\`: Escape.
 * `|`: Logical OR.
 * `()`: Grouping.
 * `{}`: Quantifiers.
-* `[]`:
-* `[a-z]`:
-* `[A-Z]`:
-* `[0-9]`:
+* `[]`: Character set.
+* `[a-z]`: Match a to z.
+* `[A-Z]`: Match A to Z.
+* `[0-9]`: Match 0 to 9.
 
 ## Character Classes
-* `\d`: Digit, i.e., `[0-9]`. `\D`: Negated, i.e., `[^0-9]`.
-* `\w`: Character, i.e., `[a-zA-Z0-9_]`. `\W`: Negated.
-* `\s`: Whitespace, i.e., `[ \t\n\r\f\v]`. `\S`: Negated.
+* `\d`: Digit, i.e., `[0-9]`.
+* `\D`: Negated digit, i.e., `[^0-9]`.
+* `\w`: Character, i.e., `[a-zA-Z0-9_]`.
+* `\W`: Negated sharacter, i.e., `[^a-zA-Z0-9_]`.
+* `\s`: Whitespace, i.e., `[ \t\n\r\f\v]`.
+* `\S`: Negated whitespace, i.e., `[^ \t\n\r\f\v]`.
 * `\b`: Word boundary.
 * `\n`: Newline.
 * `\r`: Return.
