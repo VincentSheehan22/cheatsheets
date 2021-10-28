@@ -167,7 +167,7 @@
 ```
 > <svg xmlns="http://www.w3.org/2000/svg" height="50" width="200">
 >     <text x="20" y="30" text-anchor="middle" font-family="sans-serif"
-          fill="#123456" font-size="25">
+>         fill="#123456" font-size="25">
 >         Text
 >     </text>
 > </svg>
