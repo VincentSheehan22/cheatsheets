@@ -150,8 +150,7 @@
 </svg>
 ```
 > <svg xmlns="http://www.w3.org/2000/svg" height="100" width="200">
->     <path d="M 100, 100 q 65, -65 0, -130" stroke="#b3702d"
-        fill="transparent" />
+>     <path d="M 100, 100 q 65, -65 0, -130" stroke="#b3702d" fill="transparent" />
 > </svg>
 
 
