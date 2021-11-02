@@ -20,7 +20,7 @@
 * `\d`: Digit, i.e., `[0-9]`.
 * `\D`: Negated digit, i.e., `[^0-9]`.
 * `\w`: Character, i.e., `[a-zA-Z0-9_]`.
-* `\W`: Negated sharacter, i.e., `[^a-zA-Z0-9_]`.
+* `\W`: Negated character, i.e., `[^a-zA-Z0-9_]`.
 * `\s`: Whitespace, i.e., `[ \t\n\r\f\v]`.
 * `\S`: Negated whitespace, i.e., `[^ \t\n\r\f\v]`.
 * `\b`: Word boundary.
