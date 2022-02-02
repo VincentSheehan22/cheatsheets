@@ -32,18 +32,18 @@
 ```
 1. Item 1
 2. Item 2
-    2.1 Sub-Item 1
+    1. Sub-Item 1
 3. Item 3
 4. Item 4
-    4.1 Sub-Item 1
+    1. Sub-Item 1
 ```
 
 > 1. Item 1
 > 2. Item 2
->     2.1 Sub-Item 1
+>     1. Sub-Item 1
 > 3. Item 3
 > 4. Item 4
->     4.1 Sub-Item 1
+>     1. Sub-Item 1
 
 ## Tables
 ```
