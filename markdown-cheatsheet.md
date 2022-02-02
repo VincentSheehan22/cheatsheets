@@ -76,7 +76,7 @@ left-aligned | centre-aligned  | right-aligned
 > quote
 ```
 
-> quote
+> > quote
 
 ## Code Blocks
 ### Fenced
