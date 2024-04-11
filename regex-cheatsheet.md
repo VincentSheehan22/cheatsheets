@@ -6,7 +6,8 @@
 * `.`: Match any charaacter.
 * `*`: Match any amount.
 * `$`: End of string.
-* `?`: Lookahead.
+* `?<=`: Look behind.
+* `?=`: Lookahead.
 * `\`: Escape.
 * `|`: Logical OR.
 * `()`: Grouping.
