@@ -45,6 +45,9 @@
 ### xx-xx-xx-xx-xx-xx
 * `([0-9a-fA-F]{2})([0-9a-fA-F]{2})([0-9a-fA-F]{2})([0-9a-fA-F]{2})([0-9a-fA-F]{2})([0-9a-fA-F]{2})`, `\1-\2-\3-\4-\5-\6`
 
+## String between Strings
+* `?<=first string(second string)third string`, `\1`
+
 ## Python `re` Module
 * `compile()`
 * `match()`
