@@ -5,6 +5,7 @@
 * `^`: Matches negated (`[^string]`).
 * `.`: Match any charaacter.
 * `*`: Match any amount.
+* `+`: Match at least once.
 * `$`: End of string.
 * `?<=`: Look behind.
 * `?=`: Lookahead.
