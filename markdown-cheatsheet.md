@@ -11,6 +11,13 @@
 > ## Heading 2
 > ### Heading 3
 
+### Heading links
+```
+* [Headings](#headings)
+```
+
+> [Headings](#headings)
+
 ## Unordered Lists
 ```
 * Item 1
