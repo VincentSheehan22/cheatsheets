@@ -13,10 +13,10 @@
 
 ### Heading links
 ```
-* [Headings](#headings)
+* [Unordered Lists](#unordered-lists)
 ```
 
-> [Headings](#headings)
+> [Unordered Lists](#unordered-lists)
 
 ## Unordered Lists
 ```
