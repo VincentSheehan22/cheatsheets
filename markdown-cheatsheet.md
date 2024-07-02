@@ -150,3 +150,22 @@ Apply 'JSON' header for syntax highlighting.
 ```
 
 >    code
+
+## Slides
+```
+---
+marp: true
+---
+
+# Slide 1
+Slide contents
+
+---
+
+# Slide 2
+
+---
+
+# Slide 3
+
+```
