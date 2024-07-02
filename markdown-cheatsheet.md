@@ -8,7 +8,9 @@
 * [Tables](#tables)
 * [Checkboxes](#checkboxes)
 * [Block Quotes](#block-quotes)
+* [Code](#code)
 * [Code Blocks](#code-blocks)
+* [Slides](#slides)
 ```
 
 > * [Headings](#heading)
@@ -19,6 +21,7 @@
 > * [Block Quotes](#block-quotes)
 > * [Code](#code)
 > * [Code Blocks](#code-blocks)
+> * [Slides](#slides)
 
 ## Headings
 ```
