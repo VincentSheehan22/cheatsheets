@@ -1,5 +1,25 @@
 # Markdown Cheatsheet
 
+## Table of Contents
+```
+* [Headings](#heading)
+* [Unordered Lists](#unordered-lists)
+* [Ordered Lists](#ordered-lists)
+* [Tables](#tables)
+* [Checkboxes](#checkboxes)
+* [Block Quotes](#block-quotes)
+* [Code Blocks](#code-blocks)
+```
+
+> * [Headings](#heading)
+> * [Unordered Lists](#unordered-lists)
+> * [Ordered Lists](#ordered-lists)
+> * [Tables](#tables)
+> * [Checkboxes](#checkboxes)
+> * [Block Quotes](#block-quotes)
+> * [Code](#code)
+> * [Code Blocks](#code-blocks)
+
 ## Headings
 ```
 # Heading 1
@@ -10,13 +30,6 @@
 > # Heading 1
 > ## Heading 2
 > ### Heading 3
-
-### Heading links
-```
-* [Unordered Lists](#unordered-lists)
-```
-
-> [Unordered Lists](#unordered-lists)
 
 ## Unordered Lists
 ```
@@ -85,17 +98,55 @@ left-aligned | centre-aligned  | right-aligned
 
 > > quote
 
+## Code
+```
+`string`
+```
+
+> `string`
+
 ## Code Blocks
 ### Fenced
+#### Plaintext    
+```
     ```
-    code
+    Plaintext string.
     ```
+```
 
-> code
+> ```
+> Plaintext string.
+> ```
+
+#### Python
+Apply 'Python' header for syntax highlighting.
+
+```
+    ```Python
+    print("Python string")
+    ```
+```
+
+> ```Python
+> print("Python string")
+> ```
+
+#### JSON
+Apply 'JSON' header for syntax highlighting.
+
+```
+    ```JSON
+    { "Host ID": "0000FJZ23220Z6F", "License Version": "00.000", "Validation Key": "83A8199E4340530A7F871F5E0E12B815"}
+    ```
+```
+
+> ```JSON
+> { "Host ID": "0000FJZ23220Z6F", "License Version": "00.000", "Validation Key": "83A8199E4340530A7F871F5E0E12B815"}
+> ```
 
 ### Tabs
 ```
     code
 ```
 
-> code  
+>    code
